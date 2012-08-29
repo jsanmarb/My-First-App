@@ -34,6 +34,8 @@ public class MainActivity extends Activity
 
 	/**
 	 * Llamado cuando el usuario cliquea el botón Send
+	 * WOLOLO UN CAMBIO
+	 * 
 	 * @param view
 	 */
 	public void sendMessage(View view)
