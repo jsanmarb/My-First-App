@@ -32,7 +32,10 @@ public class MainActivity extends Activity
 
 
 
-	/** Called when the user clicks the Send button */
+	/**
+	 * Llamado cuando el usuario cliquea el botón Send
+	 * @param view
+	 */
 	public void sendMessage(View view)
 	{
 		Intent intent= new Intent(this, DisplayMessageActivity.class);
