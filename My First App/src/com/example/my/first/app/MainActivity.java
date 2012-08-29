@@ -36,6 +36,8 @@ public class MainActivity extends Activity
 	 * Llamado cuando el usuario cliquea el botón Send
 	 * WOLOLO UN CAMBIO
 	 * 
+	 * Y ESTE OTRO CAMBIO PARA PROBAR KANBANERY
+	 * 
 	 * @param view
 	 */
 	public void sendMessage(View view)
